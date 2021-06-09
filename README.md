@@ -14,7 +14,7 @@
   To install this application, visit our github and clone the repo. To get started, run `npm install` and then `npm start` to start the server. Hitting the API endpoint can be done through the user's rest client of choice, but we recommend Insomia or Postman.
 
   ## Usage
-  To use the application, hit the Users, Friends, Thoughts or Reactions endpoints using your favorite rest client, such as Postman or Insomnia.
+  To use the application, hit the Users, Friends, Thoughts or Reactions endpoints using your favorite rest client, such as Postman or Insomnia. [Here](https://drive.google.com/file/d/14uTzkBdLaRdNJMfPd9GDuxOfsCpyEsMx/view) is a video demo usage of this application.
   
   ## Contributing
   To contribute to this application, you can add an issue to our Github repo or submit a PR with your proposed changes.
